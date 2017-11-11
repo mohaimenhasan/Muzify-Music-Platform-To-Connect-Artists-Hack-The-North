@@ -1,0 +1,79 @@
+id,source,word_count,processed_lang,tree__id,tree__name,tree__children__id,tree__children__name,tree__children__category,tree__children__children__id,tree__children__children__name,tree__children__children__category,tree__children__children__percentage,tree__children__children__children__id,tree__children__children__children__name,tree__children__children__children__category,tree__children__children__children__percentage,tree__children__children__children__sampling_error,tree__children__children__children__children__id,tree__children__children__children__children__name,tree__children__children__children__children__category,tree__children__children__children__children__percentage,tree__children__children__children__children__sampling_error
+949248396,python-twitter,9861,en,r,root,personality,Big 5,,Extraversion_parent,Extraversion,personality,0.163373736,Openness,Openness,personality,0.306168573,0.048115193,Adventurousness,Adventurousness,personality,0.289928599,0.04256521
+,,,,,,,,,,,,,,,,,,Artistic interests,Artistic interests,personality,0.419176706,0.088376145
+,,,,,,,,,,,,,,,,,,Emotionality,Emotionality,personality,0.611349336,0.039385424
+,,,,,,,,,,,,,,,,,,Imagination,Imagination,personality,0.451714899,0.052905608
+,,,,,,,,,,,,,,,,,,Intellect,Intellect,personality,0.41876026,0.045498178
+,,,,,,,,,,,,,,,,,,Liberalism,Authority-challenging,personality,0.595870054,0.071187907
+,,,,,,,,,,,,,Conscientiousness,Conscientiousness,personality,0.180486544,0.061107222,Achievement striving,Achievement striving,personality,0.132786831,0.08589449
+,,,,,,,,,,,,,,,,,,Cautiousness,Cautiousness,personality,0.269626982,0.07858381
+,,,,,,,,,,,,,,,,,,Dutifulness,Dutifulness,personality,0.434885476,0.052792716
+,,,,,,,,,,,,,,,,,,Orderliness,Orderliness,personality,0.188387112,0.057718234
+,,,,,,,,,,,,,,,,,,Self-discipline,Self-discipline,personality,0.087349579,0.041472342
+,,,,,,,,,,,,,,,,,,Self-efficacy,Self-efficacy,personality,0.193086324,0.077621188
+,,,,,,,,,,,,,Extraversion,Extraversion,personality,0.163373736,0.045891738,Activity level,Activity level,personality,0.240258557,0.064117976
+,,,,,,,,,,,,,,,,,,Assertiveness,Assertiveness,personality,0.32506003,0.069170059
+,,,,,,,,,,,,,,,,,,Cheerfulness,Cheerfulness,personality,0.433349064,0.08576664
+,,,,,,,,,,,,,,,,,,Excitement-seeking,Excitement-seeking,personality,0.611729738,0.07127453
+,,,,,,,,,,,,,,,,,,Friendliness,Outgoing,personality,0.331101034,0.063132889
+,,,,,,,,,,,,,,,,,,Gregariousness,Gregariousness,personality,0.438132616,0.05045197
+,,,,,,,,,,,,,Agreeableness,Agreeableness,personality,0.376601252,0.083677423,Altruism,Altruism,personality,0.493676189,0.058743606
+,,,,,,,,,,,,,,,,,,Cooperation,Cooperation,personality,0.448496721,0.06863555
+,,,,,,,,,,,,,,,,,,Modesty,Modesty,personality,0.671787697,0.045569816
+,,,,,,,,,,,,,,,,,,Morality,Uncompromising,personality,0.364849849,0.052538464
+,,,,,,,,,,,,,,,,,,Sympathy,Sympathy,personality,0.441565132,0.084903586
+,,,,,,,,,,,,,,,,,,Trust,Trust,personality,0.422446421,0.046589044
+,,,,,,,,,,,,,Neuroticism,Emotional range,personality,0.305087012,0.075795821,Anger,Fiery,personality,0.574548117,0.080151674
+,,,,,,,,,,,,,,,,,,Anxiety,Prone to worry,personality,0.693564081,0.04467738
+,,,,,,,,,,,,,,,,,,Depression,Melancholy,personality,0.749595385,0.046976789
+,,,,,,,,,,,,,,,,,,Immoderation,Immoderation,personality,0.637610929,0.046665855
+,,,,,,,,,,,,,,,,,,Self-consciousness,Self-consciousness,personality,0.832918352,0.046177251
+,,,,,,,,,,,,,,,,,,Vulnerability,Susceptible to stress,personality,0.805832422,0.069312126
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,Tuesday,Tuesday,behavior,0,
+,,,,,,,,,,,,,,,,,,Wednesday,Wednesday,behavior,0,
+,,,,,,,,,,,,,,,,,,Thursday,Thursday,behavior,0,
+,,,,,,,,,,,,,,,,,,Friday,Friday,behavior,0.118404118,
+,,,,,,,,,,,,,,,,,,Saturday,Saturday,behavior,0.853281853,
+,,,,,,,,,,,,,5:00 pm_parent,Afternoon,behavior,0.114543115,,12:00 AM,12:00 AM,behavior,0.065637066,
+,,,,,,,,,,,,,,,,,,1:00 AM,1:00 AM,behavior,0.064350064,
+,,,,,,,,,,,,,,,,,,2:00 AM,2:00 AM,behavior,0.034749035,
+,,,,,,,,,,,,,,,,,,3:00 AM,3:00 AM,behavior,0.02960103,
+,,,,,,,,,,,,,,,,,,4:00 AM,4:00 AM,behavior,0.007722008,
+,,,,,,,,,,,,,,,,,,5:00 AM,5:00 AM,behavior,0.003861004,
+,,,,,,,,,,,,,,,,,,6:00 AM,6:00 AM,behavior,0.046332046,
+,,,,,,,,,,,,,,,,,,7:00 AM,7:00 AM,behavior,0.033462033,
+,,,,,,,,,,,,,,,,,,8:00 AM,8:00 AM,behavior,0.069498069,
+,,,,,,,,,,,,,,,,,,9:00 AM,9:00 AM,behavior,0.038610039,
+,,,,,,,,,,,,,,,,,,10:00 AM,10:00 AM,behavior,0.086229086,
+,,,,,,,,,,,,,,,,,,11:00 AM,11:00 AM,behavior,0.030888031,
+,,,,,,,,,,,,,,,,,,12:00 PM,12:00 PM,behavior,0.077220077,
+,,,,,,,,,,,,,,,,,,1:00 PM,1:00 PM,behavior,0.047619048,
+,,,,,,,,,,,,,,,,,,2:00 PM,2:00 PM,behavior,0.023166023,
+,,,,,,,,,,,,,,,,,,3:00 PM,3:00 PM,behavior,0.033462033,
+,,,,,,,,,,,,,,,,,,4:00 PM,4:00 PM,behavior,0.038610039,
+,,,,,,,,,,,,,,,,,,5:00 PM,5:00 PM,behavior,0.114543115,
+,,,,,,,,,,,,,,,,,,6:00 PM,6:00 PM,behavior,0.027027027,
+,,,,,,,,,,,,,,,,,,7:00 PM,7:00 PM,behavior,0.009009009,
+,,,,,,,,,,,,,,,,,,8:00 PM,8:00 PM,behavior,0.002574003,
+,,,,,,,,,,,,,,,,,,9:00 PM,9:00 PM,behavior,0.003861004,
+,,,,,,,,,,,,,,,,,,10:00 PM,10:00 PM,behavior,0.061776062,
+,,,,,,,,,,,,,,,,,,11:00 PM,11:00 PM,behavior,0.05019305,
